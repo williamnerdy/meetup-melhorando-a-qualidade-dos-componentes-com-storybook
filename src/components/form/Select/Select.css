@@ -1,0 +1,18 @@
+.select-wrapper {
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.select-field {
+  display: block;
+  width: 100%;
+  padding: 8px 16px;
+  border: #aaa 2px solid;
+  border-radius: 4px;
+}
+
+.select-field:focus {
+  outline: none;
+  border-color: #0732aa;
+}

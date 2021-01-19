@@ -1,0 +1,19 @@
+.input-wrapper {
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.input-field {
+  display: block;
+  width: 100%;
+  padding: 8px 16px;
+  font: inherit;
+  border: #aaa 2px solid;
+  border-radius: 4px;
+}
+
+.input-field:focus {
+  outline: none;
+  border-color: #0732aa;
+}
